@@ -1,8 +1,6 @@
 # Disney-animation
 Criei uma animação da Disney para fundo de site, essa animação é ótima para sites de E-commerce ou até streaming. 
 
-![Animação Disney](https://vitorjoaodev.github.io/Disney-animation/preview.gif)
-
 
 # 🏰 Disney Castle Animation
 
@@ -10,7 +8,8 @@ Este projeto é uma animação estilizada do famoso **Castelo da Disney**, criad
 
 ## ✨ Prévia
 
-![Disney Castle Animation Screenshot](link-da-screenshot-ou-gif-aqui)
+![Animação Disney](https://vitorjoaodev.github.io/Disney-animation/preview.gif)
+
 
 > **Nota:** Você pode adicionar um link para o GitHub Pages ou um gif demonstrando a animação.
 
