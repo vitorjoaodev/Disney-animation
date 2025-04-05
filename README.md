@@ -7,6 +7,8 @@ Criei uma animação da Disney para fundo de site, essa animação é ótima par
 Este projeto é uma animação estilizada do famoso **Castelo da Disney**, criada apenas com **HTML** e **CSS**, sem o uso de JavaScript ou bibliotecas externas. A animação simula o arco mágico que aparece em várias introduções da Disney, além de efeitos animados nos telhados das torres.
 
 ## ✨ Prévia
+![Preview da animação](preview.gif)
+![Texto alternativo](caminho/da/imagem.extensão)
 
 ![Animação Disney](https://vitorjoaodev.github.io/Disney-animation/preview.gif)
 
